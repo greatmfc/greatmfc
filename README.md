@@ -1,7 +1,7 @@
 ### Hi there , greatmfc here!👋
 
 - 🔭 I’m currently working on ***simple-file-transfer***
-- 🌱 I’m currently learning how to be a ***humble citizen***
+- 🌱 I’m currently learning how to be a ***develop android apps***
 - 📫 How to reach me: ***github issue***
 <!--
 - 🤔 I’m looking for help with ...
