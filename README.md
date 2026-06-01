@@ -11,6 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-![profile_data](https://github-readme-stats.vercel.app/api?username=greatmfc&theme=tokyonight&show_icons=true&count_private=true)
+![profile_data](https://github-readme-stats.shion.dev/api?username=greatmfc&theme=tokyonight&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatmfc&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=greatmfc&layout=compact&theme=tokyonight)
